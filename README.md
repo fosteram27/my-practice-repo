@@ -1,2 +1,3 @@
 # my-practice-repo
-Practice account for courser
+Practice account for coursera
+Adding instructions
